@@ -47,6 +47,9 @@
 
 ### 📫 Connect
 
--   🌐 [GitHub](https://github.com/Akshay2642005)
+- 🌐 [GitHub](https://github.com/Akshay2642005) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshay2642005)  
+- 🐳 [DockerHub](https://hub.docker.com/u/akshay2642005)  
+- 📧 Email: [akshay@example.com](mailto:akshay@example.com) 
 -   ☕ Ping me over coffee, code, or kernels :)
 
