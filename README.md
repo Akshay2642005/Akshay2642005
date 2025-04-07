@@ -25,5 +25,5 @@ My name is ***Akshay***
 
 
 <a href="https://github.com/Akshay2642005/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=1000&card_width=810&theme=chartreuse-dark" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=1000&card_width=810&theme=chartreuse-dark" />
 </a>
