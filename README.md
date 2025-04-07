@@ -47,15 +47,6 @@
 
 ---
 
-### 🖼️ Bonus Pixel Art
-
-<div align="center">
-  <img src="https://64.media.tumblr.com/4c8fd0a9b758541c10369f542d5d7c06/tumblr_nkll69kA5I1qc9zfzo1_500.gifv" width="200" />
-  <img src="https://media.tenor.com/Y1SqbX6W7WgAAAAi/rilakkuma-kawaii.gif" width="150" />
-  <img src="https://i.pinimg.com/originals/7e/33/45/7e3345aa52c0864bbf04819fdf26266d.gif" width="150" />
-</div>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=35F7B4&width=435&lines=Thanks+for+visiting!+Happy+Hacking!+%F0%9F%90%9B" alt="Typing SVG" />
