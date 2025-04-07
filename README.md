@@ -36,7 +36,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=chartreuse-dark">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=chartreuse-dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=chartreuse-dark" />
 </picture>
 
 ---
