@@ -11,7 +11,7 @@
 -   🧑‍💻 Languages & Tools: **Rust**, **C++**, **Golang**, **JavaScript**, **Docker**, **Kubernetes**
 -   🛠️ Favorite Setup: [Arch Linux (WSL)](https://wiki.archlinux.org/title/Arch_Linux), [fish](https://fishshell.com/), [neovim](https://neovim.io/), [yazi](https://github.com/sxyazi/yazi), [glazwm](https://github.com/glzr-io/glazewm), [Firefox](https://www.mozilla.org/firefox/)
 -   🌱 Currently: **Doing nothing**, and that’s productive sometimes 😄
--   💬 Ask me anything on [GitHub Discussions](https://github.com/Akshay2642005/discussions/new/choose)
+-   💬 Ask me anything on [GitHub Discussions](https://github.com/Akshay2642005/Akshay2642005/discussions/new/choose)
 -   ⭐ Check out [Awesome Projects I've Starred](AWESOME-STARS.md)
 
 ---
