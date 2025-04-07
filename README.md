@@ -1,29 +1,48 @@
+<h1 align="center">Hi there 👋, I'm <strong>Akshay</strong></h1>
 
+<p align="center">
+  <em>Rustacean 🦀 | C++ Enthusiast 🚀 | Full-stack Tinkerer 💻 | DevOps Explorer 🐳</em>
+</p>
 
-My name is ***Akshay***
+---
+
+### 🧠 About Me
+
+-   🧑‍💻 Languages & Tools: **Rust**, **C++**, **Golang**, **JavaScript**, **Docker**, **Kubernetes**
+-   🛠️ Favorite Setup: [Arch Linux (WSL)](https://wiki.archlinux.org/title/Arch_Linux), [i3wm](https://i3wm.org/), [neovim](https://neovim.io/), [nnn](https://github.com/jarun/nnn), [mpv](https://mpv.io/), [Firefox](https://www.mozilla.org/firefox/), [yadm](https://github.com/TheLocehiliosan/yadm)
+-   🌱 Currently: **Doing nothing**, and that’s productive sometimes 😄
+-   💬 Ask me anything on [GitHub Discussions](https://github.com/Akshay2642005/discussions/new/choose)
+-   ⭐ Check out [Awesome Projects I've Starred](AWESOME-STARS.md)
+
+---
+
+### 📊 GitHub Stats
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&theme=dark&show_icons=true">
+  <img align="left" width="48%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&show_icons=true" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=chartreuse-dark&hide_border=false&mode=weekly">
+  <img align="right" width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=chartreuse-dark&hide_border=false&mode=weekly" />
+</picture>
 
+<br clear="both" /><br>
 
+---
 
+### 🧰 Top Languages
 
--   :pencil2: Rust / C++ / JavaScript / Golang / Docker / Kubernetes 
--   :package: [Arch Linu(wsl)](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :seedling: Doing Nothing
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/Akshay2642005/discussions/new/choose)!
--   :star: [Projects starred by me](AWESOME-STARS.md)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=chartreuse-dark">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=chartreuse-dark" />
+</picture>
 
+---
 
+### 📫 Connect
 
-<a href="https://github.com/Akshay2642005/convoychat](https://git.io/streak-stats">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=chartreuse-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=370" />
-</a>
+-   🌐 [GitHub](https://github.com/Akshay2642005)
+-   ☕ Ping me over coffee, code, or kernels :)
 
-
-<a href="https://github.com/Akshay2642005/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=1000&card_width=810&theme=chartreuse-dark" />
-</a>
