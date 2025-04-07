@@ -57,13 +57,6 @@
 
 ---
 
-### 🚀 Explore My Work
-
-🔗 [ConvoyChat Repo](https://github.com/Akshay2642005/convoychat)  
-🌟 [Starred Repositories](https://github.com/Akshay2642005?tab=stars)
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=35F7B4&width=435&lines=Thanks+for+visiting!+Happy+Hacking!+%F0%9F%90%9B" alt="Typing SVG" />
 </p>
