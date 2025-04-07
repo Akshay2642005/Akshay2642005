@@ -30,7 +30,7 @@ Wish you a good-looking profile README!
 -->
 
 
-My name is A**ksh*a*y
+My name is A**ks**h*ay*
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&theme=dark&show_icons=true">
