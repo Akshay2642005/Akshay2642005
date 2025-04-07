@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 -   🧑‍💻 Languages & Tools: **Rust**, **C++**, **Golang**, **JavaScript**, **Docker**, **Kubernetes**
--   🛠️ Favorite Setup: [Arch Linux (WSL)](https://wiki.archlinux.org/title/Arch_Linux), [i3wm](https://i3wm.org/), [neovim](https://neovim.io/), [nnn](https://github.com/jarun/nnn), [mpv](https://mpv.io/), [Firefox](https://www.mozilla.org/firefox/), [yadm](https://github.com/TheLocehiliosan/yadm)
+-   🛠️ Favorite Setup: [Arch Linux (WSL)](https://wiki.archlinux.org/title/Arch_Linux), [fish](https://fishshell.com/), [neovim](https://neovim.io/), [yazi](https://github.com/sxyazi/yazi), [glazwm](https://github.com/glzr-io/glazewm), [Firefox](https://www.mozilla.org/firefox/)
 -   🌱 Currently: **Doing nothing**, and that’s productive sometimes 😄
 -   💬 Ask me anything on [GitHub Discussions](https://github.com/Akshay2642005/discussions/new/choose)
 -   ⭐ Check out [Awesome Projects I've Starred](AWESOME-STARS.md)
