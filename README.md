@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <strong>Akshay</strong></h1>
 
 <p align="center">
-  <em>Rustacean 🦀 | C++ Enthusiast 🚀 | Full-stack Tinkerer 💻 | DevOps Explorer 🐳</em>
+  <em>Rustacean 🦀 | C++ Enthusiast 🚀 | Backend-Only Tinkerer 💻 | DevOps Explorer 🐳</em>
 </p>
 
 ---
