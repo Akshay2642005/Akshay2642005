@@ -15,20 +15,13 @@
 -   ⭐ Check out [Awesome Projects I've Starred](AWESOME-STARS.md)
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&theme=dark&show_icons=true">
-    <img width="48%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&show_icons=true" />
-  </picture>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshay2642005&show_icons=true&theme=chartreuse-dark" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=chartreuse-dark&hide_border=false&mode=weekly">
-    <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=chartreuse-dark&hide_border=false&mode=weekly" />
-  </picture>
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=chartreuse-dark&hide_border=false&mode=weekly" />
 
 </div>
 
@@ -37,12 +30,7 @@
 ### 🧰 Top Languages
 
 <div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=chartreuse-dark">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=chartreuse-dark" />
-  </picture>
-
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=chartreuse-dark" />
 </div>
 
 ---
