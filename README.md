@@ -19,9 +19,14 @@
 
 <div align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshay2642005&show_icons=true&theme=chartreuse-dark" />
+  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&theme=github_dark&show_icons=true">
+    <img width="48%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&show_icons=true&theme=github_dark">
+  </picture>
 
-  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=chartreuse-dark&hide_border=false&mode=weekly" />
+  <!-- GitHub Streak - now matches GitHub stats theme -->
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=github-dark&hide_border=false&mode=weekly" />
 
 </div>
 
@@ -30,7 +35,7 @@
 ### 🧰 Top Languages
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=chartreuse-dark" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=github_dark" />
 </div>
 
 ---
