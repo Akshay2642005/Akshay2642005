@@ -25,7 +25,7 @@
     <img width="48%" height="200" src="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&show_icons=true&theme=github_dark">
   </picture>
 </div>
-<div>
+<div align="center">
   <!-- GitHub Streak - now matches GitHub stats theme -->
   <img width="48%" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=github-dark&hide_border=false&mode=weekly" />
 
