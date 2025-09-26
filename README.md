@@ -28,7 +28,7 @@
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=go,rust,cpp,ts,js,nodejs,express,postgres,mongodb,bash" /><br>
   <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,terraform,ansible,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,terraform,ansible,linux,git,github,neovim" />
 </p>
 
 ---
@@ -36,12 +36,16 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Akshay2642005&theme=github_dark&show_icons=true" alt="GitHub Stats" />
-  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Akshay2642005&theme=github-dark&hide_border=false&mode=weekly" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshay2642005&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&bg_color=0D1117&hide=issues" width="49%" alt="GitHub Stats" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Akshay2642005&theme=github-dark&hide_border=true&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay2642005&layout=compact&langs_count=8&theme=github_dark" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay2642005&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" width="60%" alt="Top Languages" />
 </p>
 
 ---
