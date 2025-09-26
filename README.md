@@ -33,21 +33,31 @@
 
 ---
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshay2642005&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&bg_color=0D1117&hide=issues" width="49%" alt="GitHub Stats" />
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Akshay2642005&theme=github-dark&hide_border=true&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Analytics  
 
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay2642005&bg_color=0D1117&color=58A6FF&line=F78166&point=FFFFFF&area=true&hide_border=true" width="49%" alt="Contribution Graph" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Akshay2642005&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&bg_color=0D1117&hide=issues" width="300" />
+    </td>
+    <td align="center">
+      <!-- Streak Stats -->
+      <img src="https://streak-stats.demolab.com?user=Akshay2642005&theme=github-dark&hide_border=true&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Contribution Graph -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay2642005&bg_color=0D1117&color=58A6FF&line=F78166&point=FFFFFF&area=true&hide_border=true" width="300" />
+    </td>
+    <td align="center">
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay2642005&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" width="300" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay2642005&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" width="49%" alt="Top Languages" />
-</p>
 
 ---
 
