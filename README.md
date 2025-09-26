@@ -50,10 +50,10 @@
 
 ---
 
-## 📈 Contribution Graph  
+## 🐍 Commit History  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay2642005&bg_color=0D1117&color=58A6FF&line=F78166&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-snake.vercel.app/?username=Akshay2642005&theme=github-dark" alt="Commit Snake" />
 </p>
 
 
