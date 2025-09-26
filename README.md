@@ -33,8 +33,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Akshay2642005&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&bg_color=0D1117&hide=issues" width="49%" alt="GitHub Stats" />
@@ -44,8 +42,11 @@
 </p>
 
 <p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay2642005&bg_color=0D1117&color=58A6FF&line=F78166&point=FFFFFF&area=true&hide_border=true" width="49%" alt="Contribution Graph" />
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay2642005&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay2642005&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" width="49%" alt="Top Languages" />
 </p>
 
 ---
