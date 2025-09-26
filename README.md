@@ -53,7 +53,7 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay2642005&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay2642005&bg_color=0D1117&color=58A6FF&line=F78166&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshay2642005&theme=tokyonight&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshay2642005&theme=tokyonight&column=7&margin-w=5&margin-h=5&no-bg=false" alt="GitHub Achievements" />
 </p>
 
 ---
