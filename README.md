@@ -51,15 +51,6 @@
 
 ---
 
-## 🐍 Commit History  
-
-<p align="center">
-  <img src="https://github-profile-snake.vercel.app/?username=Akshay2642005&theme=github-dark" alt="Commit Snake" />
-</p>
-
-
----
-
 ## ☕ Fun Facts  
 
 - 🎧 Love listening to music & podcasts while coding  
