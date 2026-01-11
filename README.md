@@ -33,9 +33,7 @@
 
 ---
 
-## ☕ Fun Facts  
-
-- 🎧 Love listening to music & podcasts while coding  
+## ☕ Fun Facts   
 - 🧠 Enjoy debugging and breaking things (on purpose) to learn  
 - 🛠 Minimalist terminal setup with [Arch Linux](https://wiki.archlinux.org/), [fish](https://fishshell.com/), [neovim](https://neovim.io/)  
 - 🔧 Obsessed with improving developer workflows & productivity  
