@@ -1,56 +1,70 @@
-<h1 align="center">Hey there, I'm <strong>Akshay</strong></h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Akshay B</h1>
 
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <em>🐧 Rustacean | ⚡ C++ Enthusiast | 🏗️ Backend Systems Tinkerer | 🐳 DevOps Explorer</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay2642005&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="akshay2642005's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=akshay2642005&theme=nightowl&hide_border=true&cache_seconds=86400" alt="akshay2642005's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Go+%26+Rust+Lover;Backend+Developer;DevOps+%26+Cloud+Enthusiast;Lifelong+Learner+%F0%9F%8E%93" alt="Typing SVG">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay2642005&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
-
----
-
-## 🧠 About Me  
-
-- 🦀 Writing safe & fast code in **Rust**, but not afraid of **C++** when needed  
-- 🛠️ Building robust backends with **Go**, **Express**, and **Postgres**  
-- ☸️ Exploring **Kubernetes**, **DevOps pipelines**, and **Cloud Architectures**  
-- 📦 Always tinkering with **Docker**, **Terraform**, **Ansible**  
-- 🌱 Currently learning **Microservices**, **CI/CD with Jenkins**, and **Cloud-Native patterns**  
-- 💬 Ask me about **Rust, Go, DevOps, Cloud, Docker, Neovim setups**  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/akshay2642005) or drop me a [discussion](https://github.com/Akshay2642005/Akshay2642005/discussions/new/choose)
-
----
-
-## 🧰 Tech Stack  
-
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=go,rust,cpp,ts,js,nodejs,express,postgres,mongodb,bash" /><br>
-  <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,jenkins,terraform,ansible,linux,git,github,neovim" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akshay2642005&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Akshay B's GitHub Trophies" />
 </p>
-
----
-
-## ☕ Fun Facts   
-- 🧠 Enjoy debugging and breaking things (on purpose) to learn  
-- 🛠 Minimalist terminal setup with [Arch Linux](https://wiki.archlinux.org/), [fish](https://fishshell.com/), [neovim](https://neovim.io/)  
-- 🔧 Obsessed with improving developer workflows & productivity  
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=35F7B4&width=435&lines=Thanks+for+visiting!+Happy+Hacking!+%F0%9F%90%9B" alt="Typing SVG" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=akshay2642005&theme=nightowl&radius=10" alt="akshay2642005's Activity Graph" />
 </p>
 
----
+## 🛠️ Languages & Tools
 
-## 📫 Connect With Me  
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center">
-  <a href="https://github.com/Akshay2642005"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/akshay2642005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://hub.docker.com/u/akshay2642005"><img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="mailto:akshay2642005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<div align="center">
+  <!---->
+</div>
+
+<p align="center"><sub>Akshay B · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+<!-- gitskins:architecture -->
+### How [nexus-core](https://github.com/Project-NexusWAF/nexus-core) works
+
+NexusWAF is a Rust web application firewall: a reverse proxy gateway runs each request through a layered pipeline (rate limit, lexical, grammar, rules, anomaly, RL policy, optional ML) that yields a verdict, while a con…
+
+<a href="https://github.com/Project-NexusWAF/nexus-core"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=Project-NexusWAF&amp;repo=nexus-core&amp;theme=dark&amp;v=1794068055859">
+  <img alt="Architecture diagram of Project-NexusWAF/nexus-core" src="https://www.gitskins.com/api/repo-diagram/image?owner=Project-NexusWAF&amp;repo=nexus-core&amp;theme=light&amp;v=1794068055859">
+</picture></a>
+
+<sub>Drawn from the code by <a href="https://www.gitskins.com">GitSkins</a></sub>
+<!-- /gitskins:architecture -->
